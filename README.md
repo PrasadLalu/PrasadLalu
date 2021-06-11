@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PrasadLalu
-- 👀 I’m interested in Coding, Travelling, sleeping.
+- 👋 Hi, I’m Lalu Prasad Mahato.
+- 👀 I’m interested in Coding, Travelling, Sleeping.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
